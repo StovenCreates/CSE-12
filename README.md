@@ -7,3 +7,4 @@
 5. Hash Map/Set
 6. Deque/Stack/Queue
 7. Heap
+8. BST and Sorting
